@@ -5,11 +5,13 @@
 
 - 🌱 I’m currently learning **Diploma in Computer Science**
 
-- 👨‍💻 All of my projects are available at [https://abhishek8909.github.io/cv/](https://abhishek8909.github.io/cv/)
+- 👨‍💻 Portfolio web page [https://abhishek8909.github.io/cv/](https://abhishek8909.github.io/cv/)
 
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **abhishekrajput750666@gmail.com**
+
+- ⚡ Fun fact **I have a unique blend of skills in digital marketing and web development, making a versatile professional. It’s like being a digital superhero with dual powers!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
